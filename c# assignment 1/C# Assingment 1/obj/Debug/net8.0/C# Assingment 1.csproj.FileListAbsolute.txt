@@ -1,0 +1,67 @@
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/bin/Debug/net8.0/appsettings.Development.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/bin/Debug/net8.0/appsettings.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/bin/Debug/net8.0/C# Assingment 1
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/bin/Debug/net8.0/C# Assingment 1.deps.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/bin/Debug/net8.0/C# Assingment 1.runtimeconfig.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/bin/Debug/net8.0/C# Assingment 1.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/bin/Debug/net8.0/C# Assingment 1.pdb
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.csproj.AssemblyReference.cache
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.AssemblyInfoInputs.cache
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.AssemblyInfo.cs
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.csproj.CoreCompileInputs.cache
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.MvcApplicationPartsAssemblyInfo.cs
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.MvcApplicationPartsAssemblyInfo.cache
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/staticwebassets/msbuild.C# Assingment 1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/staticwebassets/msbuild.build.C# Assingment 1.props
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.C# Assingment 1.props
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.C# Assingment 1.props
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/scopedcss/bundle/C# Assingment 1.styles.css
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/C# Assin.689FBEB0.Up2Date
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/refint/C# Assingment 1.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.pdb
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.genruntimeconfig.cache
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/c# assignment 2/C# Assingment 1/obj/Debug/net8.0/ref/C# Assingment 1.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/bin/Debug/net8.0/appsettings.Development.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/bin/Debug/net8.0/appsettings.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/bin/Debug/net8.0/C# Assingment 1
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/bin/Debug/net8.0/C# Assingment 1.deps.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/bin/Debug/net8.0/C# Assingment 1.runtimeconfig.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/bin/Debug/net8.0/C# Assingment 1.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/bin/Debug/net8.0/C# Assingment 1.pdb
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.csproj.AssemblyReference.cache
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.AssemblyInfoInputs.cache
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.AssemblyInfo.cs
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.csproj.CoreCompileInputs.cache
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.MvcApplicationPartsAssemblyInfo.cs
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.MvcApplicationPartsAssemblyInfo.cache
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.sourcelink.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/staticwebassets.build.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/staticwebassets.development.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/staticwebassets/msbuild.C# Assingment 1.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/staticwebassets/msbuild.build.C# Assingment 1.props
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.C# Assingment 1.props
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.C# Assingment 1.props
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/scopedcss/bundle/C# Assingment 1.styles.css
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/C# Assin.689FBEB0.Up2Date
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/refint/C# Assingment 1.dll
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.pdb
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/C# Assingment 1.genruntimeconfig.cache
+/Users/raman/Desktop/Humber Courses/Semester 1/Backend 1/HTTP-5125/c# assignment 1/C# Assingment 1/obj/Debug/net8.0/ref/C# Assingment 1.dll

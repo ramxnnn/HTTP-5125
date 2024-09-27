@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/C# Assingment 1.props" />
+</Project>
