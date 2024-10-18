@@ -1,0 +1,133 @@
+[
+  {
+    "ContainingType": "assignment2.Controllers.ChilliPeppersController",
+    "Method": "CalculateSpiciness",
+    "RelativePath": "api/ChilliPeppers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ingredients",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assignment2.Controllers.CupCakeController",
+    "Method": "GetLeftoverCupcakes",
+    "RelativePath": "api/CupCake",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "regularBoxes",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "smallBoxes",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assignment2.Controllers.DelivEDroidController",
+    "Method": "CalculateScore",
+    "RelativePath": "api/DelivEDroid",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "collisions",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "deliveries",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assignment2.Controllers.FergusonballController",
+    "Method": "GetFergusonballRatings",
+    "RelativePath": "api/Fergusonball",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "N",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "scoresAndFouls",
+        "Type": "System.Int32[]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assignment2.Controllers.SecretInstructionController",
+    "Method": "DecodeInstructions",
+    "RelativePath": "api/SecretInstruction/DecodeInstructions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "instruction1",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "instruction2",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "instruction3",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "instruction4",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "assignment2.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[assignment2.WeatherForecast, assignment2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
